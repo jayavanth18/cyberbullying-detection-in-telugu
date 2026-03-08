@@ -10,6 +10,8 @@
 
 **An end-to-end NLP system for detecting cyberbullying in Telugu social media comments using Transformer-based language models.**
 
+🎥 **[Watch Demo Video](https://youtu.be/oQMxZZ9ggx8)**
+
 </div>
 
 ---
