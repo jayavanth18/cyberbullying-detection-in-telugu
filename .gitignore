@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Large model files
+models/
+
+# Temporary folders
+scripts/
+output/
+Extra/
+
+# Private research files
+utils/predict.py
+utils/youtube_comment_predictor.py
+utils/model_training.py
+
+# Misc
+command.txt
+full_structure.txt
+
+# Python cache
+__pycache__/
+*.pyc
