@@ -270,7 +270,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### 🔹 Yellatp
+### 🔹 Pavan Yellathakota
 
 [![GitHub](https://img.shields.io/badge/GitHub-yellatp-181717?style=for-the-badge&logo=github)](https://github.com/yellatp)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yellatp-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yellatp)
